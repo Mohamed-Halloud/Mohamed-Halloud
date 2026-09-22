@@ -1,10 +1,6 @@
 ### Hi, I'm Mohamed 👋
 
-🎓 Engineering student at ENSA Agadir (Ibn Zohr University), specializing in Data Science, Big Data & AI (SDBDIA)
-🤖 Aspiring AI/ML Engineer, building real-world projects in ML, data engineering, and NLP
-🌍 Working toward opportunities in the EU while staying active in the Moroccan tech scene
-🛠️ Currently exploring: forecasting, anomaly detection, and real-time data pipelines
-📫 Reach me: mohamedhalloud97@gmail.com | [LinkedIn](https://linkedin.com/in/mohamed-halloud-10321a2a2)
+ Engineering student at ENSA Agadir, specializing in Data Science, Big Data & AI (SDBDIA)
 
 
 # 💫 About Me:
